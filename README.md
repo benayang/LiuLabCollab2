@@ -41,7 +41,7 @@ Genes that separate samples along each PC. Genes with positive values push sampl
 | **Ensembl IDs** | ![](https://github.com/benayang/LiuLabCollab2/blob/main/Plots/pca_loadings_ens.png) |
 
 ## 3. Reactome GSVA
-Instead of differential gene expression analysis, we can score each sample by their expression of gene sets. Here, I've scored each sample how much they up/downregulate terms from the Reactome database. Positive scores indicate upregulation of the pathway (left plot). Next, I clustered the terms by the correlation of their scores (right plot). This might help you interpret the scoring results by seeing which pathways are going up or down in each sample. The clustering results are [here.](https://github.com/benayang/LiuLabCollab2/blob/main/gsva_reactome_clusters_df.tsv)
+Instead of differential gene expression analysis, we can score each sample by their expression of gene sets. Here, I've scored each sample how much they up/downregulate terms from the Reactome database. Positive scores indicate upregulation of the pathway (left plot). Next, I clustered the terms by the correlation of their scores (right plot). Please note that "genes" in this plot actually refer to Reactome terms, NOT genes. This plot might help you interpret the scoring results by seeing which pathways are going up or down in each sample. The clustering results are [here.](https://github.com/benayang/LiuLabCollab2/blob/main/gsva_reactome_clusters_df.tsv)
 
 | Reactome scores | Reactome clusters |
 | -------- | ---------- |
