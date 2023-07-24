@@ -12,5 +12,6 @@
 <img src="https://github.com/benayang/LiuLabCollab2/blob/main/Plots/spearman_hmp.png" width=49% height=50%>
 </p>
 
-![alt-text-1](https://github.com/benayang/LiuLabCollab2/blob/main/Plots/spearman_hmp.png "title-1") ![alt-text-2](https://github.com/benayang/LiuLabCollab2/blob/main/Plots/spearman_hmp.png "title-2")
-
+| Spearman | Spearman 2 |
+| -------- | ---------- |
+| ![](https://github.com/benayang/LiuLabCollab2/blob/main/Plots/spearman_hmp.png) | ![](https://github.com/benayang/LiuLabCollab2/blob/main/Plots/spearman_hmp.png) |
