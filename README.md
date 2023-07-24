@@ -1,3 +1,3 @@
 # LiuLabCollab2
 
-!['hello'](/analyses/pearson_hmp.pdf)
+!['hello'](Plots/pearson_hmp.pdf)
