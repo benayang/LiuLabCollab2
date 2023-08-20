@@ -381,18 +381,6 @@ R.HSA.8868766	6	rRNA processing in the mitochondrion
 R.HSA.199220	6	Vitamin B5 (pantothenate) metabolism
 R.HSA.162710	6	Synthesis of glycosylphosphatidylinositol (GPI)
 R.HSA.176974	6	Unwinding of DNA
-R.HSA.9753281	7	Paracetamol ADME
-R.HSA.977068	7	Termination of O-glycan biosynthesis
-R.HSA.975634	7	Retinoid metabolism and transport
-R.HSA.1222556	7	ROS and RNS production in phagocytes
-R.HSA.1592389	7	Activation of Matrix Metalloproteinases
-R.HSA.446353	7	Cell-extracellular matrix interactions
-R.HSA.1362409	7	Mitochondrial iron-sulfur cluster biogenesis
-R.HSA.174403	7	Glutathione synthesis and recycling
-R.HSA.174490	7	Membrane binding and targetting of GAG proteins
-R.HSA.174495	7	Synthesis And Processing Of GAG, GAGPOL Polyproteins
-R.HSA.175474	7	Assembly Of The HIV Virion
-R.HSA.209543	7	p75NTR recruits signalling complexes
 R.HSA.74217	8	Purine salvage
 R.HSA.9646399	8	Aggrephagy
 R.HSA.73886	8	Chromosome Maintenance
@@ -413,18 +401,6 @@ R.HSA.5620924	8	Intraflagellar transport
 R.HSA.9648895	8	Response of EIF2AK1 (HRI) to heme deficiency
 R.HSA.400042	8	Adrenaline,noradrenaline inhibits insulin secretion
 R.HSA.1474151	8	Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation
-R.HSA.1500931	9	Cell-Cell communication
-R.HSA.525793	9	Myogenesis
-R.HSA.1482788	9	Acyl chain remodelling of PC
-R.HSA.1474244	9	Extracellular matrix organization
-R.HSA.9013700	9	NOTCH4 Activation and Transmission of Signal to the Nucleus
-R.HSA.1912420	9	Pre-NOTCH Processing in Golgi
-R.HSA.2871796	9	FCERI mediated MAPK activation
-R.HSA.210500	9	Glutamate Neurotransmitter Release Cycle
-R.HSA.1566948	9	Elastic fibre formation
-R.HSA.2129379	9	Molecules associated with elastic fibres
-R.HSA.388844	9	Receptor-type tyrosine-protein phosphatases
-R.HSA.373752	9	Netrin-1 signaling
 R.HSA.381426	10	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)
 R.HSA.186712	10	Regulation of beta-cell development
 R.HSA.9614085	10	FOXO-mediated transcription
@@ -485,16 +461,6 @@ R.HSA.2206281	11	Mucopolysaccharidoses
 R.HSA.9683610	11	Maturation of nucleoprotein
 R.HSA.167044	11	Signalling to RAS
 R.HSA.449836	11	Other interleukin signaling
-R.HSA.2142845	12	Hyaluronan metabolism
-R.HSA.69473	12	G2/M DNA damage checkpoint
-R.HSA.1234158	12	Regulation of gene expression by Hypoxia-inducible Factor
-R.HSA.5633008	12	TP53 Regulates Transcription of Cell Death Genes
-R.HSA.432040	12	Vasopressin regulates renal water homeostasis via Aquaporins
-R.HSA.445717	12	Aquaporin-mediated transport
-R.HSA.9634597	12	GPER1 signaling
-R.HSA.1834941	12	STING mediated induction of host immune responses
-R.HSA.450341	12	Activation of the AP-1 family of transcription factors
-R.HSA.381033	12	ATF6 (ATF6-alpha) activates chaperones
 R.HSA.389513	13	CTLA4 inhibitory signaling
 R.HSA.1989781	13	PPARA activates gene expression
 R.HSA.2029480	13	Fcgamma receptor (FCGR) dependent phagocytosis
@@ -972,40 +938,6 @@ R.HSA.2730905	20	Role of LAT2/NTAL/LAB on calcium mobilization
 R.HSA.210990	20	PECAM1 interactions
 R.HSA.9034015	20	Signaling by NTRK3 (TRKC)
 R.HSA.2586552	20	Signaling by Leptin
-R.HSA.6804759	21	Regulation of TP53 Activity through Association with Co-factors
-R.HSA.936964	21	Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon
-R.HSA.937072	21	TRAF6-mediated induction of TAK1 complex within TLR4 complex
-R.HSA.432720	21	Lysosome Vesicle Biogenesis
-R.HSA.1638091	21	Heparan sulfate/heparin (HS-GAG) metabolism
-R.HSA.1793185	21	Chondroitin sulfate/dermatan sulfate metabolism
-R.HSA.6806667	21	Metabolism of fat-soluble vitamins
-R.HSA.977225	21	Amyloid fiber formation
-R.HSA.877300	21	Interferon gamma signaling
-R.HSA.8963899	21	Plasma lipoprotein remodeling
-R.HSA.933542	21	TRAF6 mediated NF-kB activation
-R.HSA.2243919	21	Crosslinking of collagen fibrils
-R.HSA.8863795	22	Downregulation of ERBB2 signaling
-R.HSA.167161	22	HIV Transcription Initiation
-R.HSA.167162	22	RNA Polymerase II HIV Promoter Escape
-R.HSA.73776	22	RNA Polymerase II Promoter Escape
-R.HSA.73779	22	RNA Polymerase II Transcription Pre-Initiation And Promoter Opening
-R.HSA.75953	22	RNA Polymerase II Transcription Initiation
-R.HSA.76042	22	RNA Polymerase II Transcription Initiation And Promoter Clearance
-R.HSA.9006931	23	Signaling by Nuclear Receptors
-R.HSA.1296065	23	Inwardly rectifying K+ channels
-R.HSA.912446	23	Meiotic recombination
-R.HSA.1221632	23	Meiotic synapsis
-R.HSA.68616	23	Assembly of the ORC complex at the origin of replication
-R.HSA.450321	23	JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1
-R.HSA.1296041	23	Activation of G protein gated Potassium channels
-R.HSA.1296059	23	G protein gated Potassium channels
-R.HSA.392170	23	ADP signalling through P2Y purinoceptor 12
-R.HSA.392851	23	Prostacyclin signalling through prostacyclin receptor
-R.HSA.418217	23	G beta:gamma signalling through PLC beta
-R.HSA.420092	23	Glucagon-type ligand receptors
-R.HSA.500657	23	Presynaptic function of Kainate receptors
-R.HSA.8964315	23	G beta:gamma signalling through BTK
-R.HSA.997272	23	Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits
 R.HSA.9634638	24	Estrogen-dependent nuclear events downstream of ESR-membrane signaling
 R.HSA.1482801	24	Acyl chain remodelling of PS
 R.HSA.141424	24	Amplification of signal from the kinetochores
@@ -1023,20 +955,6 @@ R.HSA.3928663	24	EPHA-mediated growth cone collapse
 R.HSA.9615017	24	FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes
 R.HSA.445095	24	Interaction between L1 and Ankyrins
 R.HSA.452723	24	Transcriptional regulation of pluripotent stem cells
-R.HSA.397014	25	Muscle contraction
-R.HSA.5576891	25	Cardiac conduction
-R.HSA.9614657	25	FOXO-mediated transcription of cell death genes
-R.HSA.5576892	25	Phase 0 - rapid depolarisation
-R.HSA.8948216	25	Collagen chain trimerization
-R.HSA.446107	25	Type I hemidesmosome assembly
-R.HSA.438066	25	Unblocking of NMDA receptors, glutamate binding and activation
-R.HSA.9617324	25	Negative regulation of NMDA receptor-mediated neuronal transmission
-R.HSA.9620244	25	Long-term potentiation
-R.HSA.139853	25	Elevation of cytosolic Ca2+ levels
-R.HSA.9005891	25	Loss of function of MECP2 in Rett syndrome
-R.HSA.9005895	25	Pervasive developmental disorders
-R.HSA.9675151	25	Disorders of Developmental Biology
-R.HSA.9697154	25	Disorders of Nervous System Development
 R.HSA.1980143	26	Signaling by NOTCH1
 R.HSA.2122947	26	NOTCH1 Intracellular Domain Regulates Transcription
 R.HSA.2644602	26	Signaling by NOTCH1 PEST Domain Mutants in Cancer
@@ -1136,19 +1054,6 @@ R.HSA.5689877	28	Josephin domain DUBs
 R.HSA.6799198	28	Complex I biogenesis
 R.HSA.9735869	28	SARS-CoV-1 modulates host translation machinery
 R.HSA.209560	28	NF-kB is activated and signals survival
-R.HSA.1482839	29	Acyl chain remodelling of PE
-R.HSA.140534	29	Caspase activation via Death Receptors in the presence of ligand
-R.HSA.1474228	29	Degradation of the extracellular matrix
-R.HSA.416476	29	G alpha (q) signalling events
-R.HSA.6794362	29	Protein-protein interactions at synapses
-R.HSA.5173214	29	O-glycosylation of TSR domain-containing proteins
-R.HSA.181430	29	Norepinephrine Neurotransmitter Release Cycle
-R.HSA.264642	29	Acetylcholine Neurotransmitter Release Cycle
-R.HSA.6794361	29	Neurexins and neuroligins
-R.HSA.1810476	29	RIP-mediated NFkB activation via ZBP1
-R.HSA.6803211	29	TP53 Regulates Transcription of Death Receptors and Ligands
-R.HSA.216083	29	Integrin cell surface interactions
-R.HSA.3000178	29	ECM proteoglycans
 R.HSA.5213460	30	RIPK1-mediated regulated necrosis
 R.HSA.5675482	30	Regulation of necroptotic cell death
 R.HSA.375276	30	Peptide ligand-binding receptors
@@ -1184,20 +1089,6 @@ R.HSA.6783783	30	Interleukin-10 signaling
 R.HSA.5660526	30	Response to metal ions
 R.HSA.1236977	30	Endosomal/Vacuolar pathway
 R.HSA.879415	30	Advanced glycosylation endproduct receptor signaling
-R.HSA.193648	31	NRAGE signals death through JNK
-R.HSA.392154	31	Nitric oxide stimulates guanylate cyclase
-R.HSA.2032785	31	YAP1- and WWTR1 (TAZ)-stimulated gene expression
-R.HSA.420029	31	Tight junction interactions
-R.HSA.9634285	31	Constitutive Signaling by Overexpressed ERBB2
-R.HSA.1855204	31	Synthesis of IP3 and IP4 in the cytosol
-R.HSA.1663150	31	The activation of arylsulfatases
-R.HSA.9768759	31	Regulation of NPAS4 gene expression
-R.HSA.3781865	32	Diseases of glycosylation
-R.HSA.913709	32	O-linked glycosylation of mucins
-R.HSA.1630316	32	Glycosaminoglycan metabolism
-R.HSA.5693607	32	Processing of DNA double-strand break ends
-R.HSA.2142753	32	Arachidonic acid metabolism
-R.HSA.2162123	32	Synthesis of Prostaglandins (PG) and Thromboxanes (TX)
 R.HSA.8851805	33	MET activates RAS signaling
 R.HSA.5173105	33	O-linked glycosylation
 R.HSA.2022928	33	HS-GAG biosynthesis
@@ -1219,7 +1110,3 @@ R.HSA.451927	33	Interleukin-2 family signaling
 R.HSA.1170546	33	Prolactin receptor signaling
 R.HSA.5654719	33	SHC-mediated cascade:FGFR4
 R.HSA.5654704	33	SHC-mediated cascade:FGFR3
-R.HSA.5693532	34	DNA Double-Strand Break Repair
-R.HSA.111458	34	Formation of apoptosome
-R.HSA.111461	34	Cytochrome c-mediated apoptotic response
-R.HSA.9627069	34	Regulation of the apoptosome activity
